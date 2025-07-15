@@ -1,1 +1,1 @@
-Light start files based on the mingw-w64 runtime package ones, aiming to be functional and small.
+Light start files aiming to be functional and small.
